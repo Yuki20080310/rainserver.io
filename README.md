@@ -1,2 +1,2 @@
-# rainserver.io
+# rainserver
 RainServerの公式ホームページです。
